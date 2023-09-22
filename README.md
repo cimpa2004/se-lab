@@ -1,3 +1,4 @@
+El lett rontva mert csináltam egy pullt a branchek után
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
